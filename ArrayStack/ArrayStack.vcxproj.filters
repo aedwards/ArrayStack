@@ -18,5 +18,13 @@
     <ClInclude Include="StackExceptions.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="ArrayStack.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ArrayStackTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
